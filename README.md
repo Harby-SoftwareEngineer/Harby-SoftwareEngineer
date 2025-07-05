@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Senior Flutter Developer specializing in building scalable, pixel-perfect cross-platform apps for HR, fintech, e-commerce, education, and more. I’ve designed, developed, and shipped **20+** production applications to Google Play and the App Store, collaborating with teams across five countries.
+I’m a Flutter Developer specializing in building scalable, pixel-perfect cross-platform apps for HR, fintech, e-commerce, education, and more. I’ve designed, developed, and shipped **20+** production applications to Google Play and the App Store, collaborating with teams across five countries.
 
 - 🔷 **Core Tech:** Flutter, Dart, Clean Architecture  
 - 🔷 **State Management:** Bloc, Provider, Riverpod, GetX  
