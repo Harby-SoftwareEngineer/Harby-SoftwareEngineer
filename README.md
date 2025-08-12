@@ -1,95 +1,71 @@
 # Hi there, I’m Harby Ahmed 👋
 
-**Flutter Developer** · 5+ years experience · UAE 🇦🇪 | Saudi Arabia 🇸🇦 | Egypt 🇪🇬 | Kuwait 🇰🇼 | USA 🇺🇸
+**Senior Flutter Developer** · 7+ years · UAE 🇦🇪 | Saudi Arabia 🇸🇦 | Egypt 🇪🇬 | Kuwait 🇰🇼 | USA 🇺🇸
 
-📫 Reach me at: [harbey127@gmail.com](mailto:harbey127@gmail.com)  
-🔗 LinkedIn: [harby-ahmed-0640862a4](https://www.linkedin.com/in/harby-ahmed-0640862a4)  
-🔗 Portfolio & CV: [cvrest.com/cv/harbey/flutter](https://cvrest.com/cv/harbey/flutter?ref=PDF-CV)  
-🌐 GitHub: [@Harby-SoftwareEngineer](https://github.com/Harby-SoftwareEngineer)
+📫 **Email:** harbey127@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/harby-ahmed-0640862a4  
+🌐 **GitHub:** github.com/Harby-SoftwareEngineer  
+📍 **Location:** Dubai, UAE · **Availability:** Immediate if needed
 
 ---
 
 ## 👨‍💻 About Me
-
-I’m a Flutter Developer specializing in building scalable, pixel-perfect cross-platform apps for HR, fintech, e-commerce, education, and more. I’ve designed, developed, and shipped **20+** production applications to Google Play and the App Store, collaborating with teams across five countries.
-
-- 🔷 **Core Tech:** Flutter, Dart, Clean Architecture  
-- 🔷 **State Management:** Bloc, Provider, Riverpod, GetX  
-- 🔷 **Backend & Cloud:** Firebase (Auth, Firestore, Realtime DB, Storage), RESTful APIs, WebSockets  
-- 🔷 **Tools & CI/CD:** Git, GitHub, GitLab, Jira, Azure DevOps, Postman  
-- 🔷 **Other Skills:** Push Notifications (FCM), Deep Linking, Payment Gateways (Paymob, PayPal), Maps & Location, Social Login
+I build scalable, pixel-perfect **Flutter** apps for HR, fintech, e-commerce, education, and more. I’ve **designed, developed, and shipped 20+ production apps** to Google Play and the App Store, with enterprise work including **EAHS UAE**, **Emirates Cup UAE**, **Cashift**, **Qayd POS**, and **Suppliermate**. I love clean architecture, robust state management, and shipping fast with quality.
 
 ---
 
-## 💼 Work Experience
-
-### Netaq for E-Solutions (UAE) · **Senior Flutter Developer**  
-*Jan 2024 – Present*  
-- Built and maintained high-performance HR, finance & marketplace mobile apps.  
-- Integrated Firebase services, REST APIs, real-time features, and ensured 99.9% uptime.
-
-### SAG Technology (Saudi Arabia) · **Senior Flutter Developer**  
-*Jan 2023 – Dec 2023*  
-- Led Flutter projects for HR systems & POS platforms with NFC payments and secure auth.  
-- Mentored mid-level devs on clean architecture and CI/CD pipelines.
-
-### Support Human Capital (Saudi Arabia) · **Mid-Level Flutter Developer**  
-*Jan 2022 – Dec 2022*  
-- Developed recruitment management & task-tracking apps using Firebase Realtime DB and GetX.  
-- Improved internal workflows, reducing load times by 30%.
-
-### Matrix Clouds (Egypt) · **Mid-Level Flutter Developer**  
-*Jan 2021 – Dec 2021*  
-- Created marketing and e-commerce mobile apps; introduced modular code patterns.
-
-### Angazny (Egypt) · **Junior Flutter Developer**  
-*Jan 2020 – Dec 2020*  
-- Built affiliate marketing solutions, integrated third-party APIs and analytics.
+## 🔧 Tech Stack
+- **Languages/Frameworks:** Flutter, Dart, Kotlin, Java, Swift  
+- **State Management:** **Riverpod (preferred)**, BLoC, Provider, GetX  
+- **Backend & Cloud:** REST APIs, GraphQL, Firebase (Auth, Firestore, Realtime DB, Storage), WebSockets/Socket.IO  
+- **App Capabilities:** FCM Push, Deep Linking, Biometrics, **Face Recognition**, Social Login  
+- **Payments:** Urway, Paymob, Tamara, PayPal, MyFatoorah, Moyasar  
+- **Storage:** SQLite, Hive, Shared Preferences, Floor  
+- **Dev & Tools:** GitHub/GitLab, CI/CD, Jira/Trello, Postman, Swagger, Azure DevOps
 
 ---
 
-## 🚀 Selected Projects
-
-| App Name | Platform(s) | Link |
-| -------- | ----------- | ---- |
-| EAHS UAE | Android, iOS | [Google Play](https://play.google.com/store/apps/details?id=com.eahs.main) · [App Store](https://apps.apple.com/us/app/eahs-uae/id6668329930) |
-| Emirates Cup | Android, iOS | [Google Play](https://play.google.com/store/apps/details?id=ae.eahs.eahgc&hl=en) · [App Store](https://apps.apple.com/us/app/emirates-cup/id6739839715) |
-| Suppliermate | Android, iOS | [Google Play](https://play.google.com/store/apps/details?id=com.suppliermate.suppliermate) · [App Store](https://apps.apple.com/us/app/suppliermate-inc/id6477746543) |
-| Qayd POS & User System | Android, iOS | [POS on GitHub](https://github.com/Harby-SoftwareEngineer/QaYd-POS) · [User on GitHub](https://github.com/Harby-SoftwareEngineer/QaYd-User-System) |
-| Cashft | Android, iOS | [Google Play](https://play.google.com/store/apps/details?id=com.cashift) · [App Store](https://apps.apple.com/us/app/cashift/id1593657179) |
-| Wezary (EdTech) | Android, iOS | [Google Play](https://play.google.com/store/apps/details?id=com.wezary) · [App Store](https://apps.apple.com/us/app/wezary/id6502261901) |
-| Dalalah (Marketplace) | Android, iOS | [Google Play](https://play.google.com/store/apps/details?id=com.dalalah) · [App Store](https://apps.apple.com/us/app/dalalah-%D8%AF%D9%84%D8%A7%D9%84%D8%A9/id6475810704) |
-| …and many more **20+** apps! |
+## 🏆 Highlights
+- 7+ years building cross-platform mobile apps in Agile teams  
+- **20+ live apps** across **UAE, Saudi Arabia, Egypt, Kuwait, and the USA**  
+- Led feature delivery end-to-end: architecture → development → store release → maintenance  
+- Performance optimization, accessibility, and clean, maintainable code
 
 ---
 
-## 🛠️ Skills & Tools
+## 📱 Featured Projects
+- **EAHS UAE** — Arabian horse e-services (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=com.eahs.main) · [App Store](https://apps.apple.com/us/app/eahs-uae/id6668329930)
 
-- **State Management:** Bloc · Provider · Riverpod · GetX · GetIt  
-- **Backend & Cloud:** Firebase (Auth · Firestore · Realtime DB · Storage) · REST · WebSockets  
-- **Maps & Location:** Google Maps API · Geolocator · Polygon Mapping  
-- **Storage:** SQLite · Hive · SharedPreferences · Floor  
-- **Notifications & Auth:** FCM · Social Logins (Google · Facebook · Twitter · GitHub) · Biometric  
-- **Testing & DevOps:** Unit Tests · CI/CD (GitHub Actions · Azure DevOps)  
-- **Design & UX:** Custom Animations · Pixel-perfect UI · Agile / Scrum  
+- **Emirates Cup UAE (EAHGC)** — Global championship app (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=ae.eahs.eahgc&hl=en) · [App Store](https://apps.apple.com/us/app/emirates-cup/id6739839715)
+
+- **Cashift** — On-demand work shifts with daily payouts (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=com.cashift) · [App Store](https://apps.apple.com/us/app/cashift/id1593657179)
+
+- **Qayd POS** — Merchant POS & BNPL suite (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=com.qayd.pos) · [App Store](https://apps.apple.com/us/app/qayd-pos/id6747082523)
+
+- **Suppliermate** — Sales toolkit for field teams (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=com.suppliermate.suppliermate) · [App Store](https://apps.apple.com/us/app/suppliermate-inc/id6477746543)
+
+- **Wezary** — Learning platform with curated courses (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=com.wezary) · [App Store](https://apps.apple.com/us/app/wezary/id6502261901)
+
+- **Meayar** — Quality & safety inspections with real-time reporting (Android/iOS)  
+  [Play Store](https://play.google.com/store/apps/details?id=com.app.meayar) · [App Store](https://apps.apple.com/us/app/%D9%85%D8%B9%D9%8A%D8%A7%D8%B1-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%88%D8%AF%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9/id6744560990)
+
+> More: Dalysoft POS · Alwaseet HR · The Expert · Mosaed HR · TH Transport · Muham · Kan
 
 ---
 
-## 🎓 Education
-
-**B.Sc. Computer Science**  
-Modern Academy for Computer Science and Management Technology · 2018 – 2021
-
----
-
-## 🌐 Languages
-
-- **English:** Professional  
-- **Arabic:** Native
+## 🗂️ What You’ll Find Here
+- Reusable Flutter widgets & templates  
+- Riverpod examples with clean architecture  
+- CI/CD snippets, Firebase setups, and performance tips
 
 ---
 
-&mdash;  
-> “Clean code always looks like it was written by someone who cares.”  
-> — **Robert C. Martin**
-
+## 🤝 Let’s Collaborate
+I’m open to **senior Flutter roles**, contract work, and product collaborations.  
+**Email me** or DM on **LinkedIn** — happy to share code samples or discuss your app idea.
